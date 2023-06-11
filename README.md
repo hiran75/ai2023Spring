@@ -32,7 +32,3 @@ AI 개발 실무 2차 레포트
 ![image](https://github.com/hiran75/ai2023Spring/assets/29429137/5e7fcde4-a507-4183-966c-1ed504fc4636)
 
 
-
-
-
-과제 제출방법: 과제를 구현한 코드를 본인의 github에 올린뒤, github의 주소를 과제로 제출하기
